@@ -1,1 +1,3 @@
-A vulnerabilty is not fixed. It is in progress.
+# Timer Pomodoro Method
+
+Documentation will be developped later.
